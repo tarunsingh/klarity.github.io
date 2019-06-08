@@ -1,2 +1,2 @@
 # klarity
-Communication
+Communication for all
